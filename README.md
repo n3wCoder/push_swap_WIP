@@ -8,3 +8,5 @@ Major Tasks to do:
 Concepts needed:
 a) Linked Lists or Integer Array (Array need to dynamically increase the size somehow if you want to use it)
 ft_lstnew & ft_addback
+
+Consider using double linked lists, because it can point back to previous nodes, which reduces the execution time.
